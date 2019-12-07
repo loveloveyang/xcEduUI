@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xc-ui-pc-static-portal" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="902">
+              <caret line="256" column="17" lean-forward="true" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/detail/297e7c7c62b8aa9d0162b8ab56ba0001.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-396" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/detail/297e7c7c62b8aa9d0162b8ab13910000.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/detail/297e7c7c62b888f00162b8a7dec20000.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/detail/297e7c7c62b888f00162b8a965510001.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/detail/4028e58161bcf7f40161bcf8b77c0000.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-198" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/detail/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2178" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/preview/preview_402885816243d2dd016243f24c030002.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/widget-timg.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/widget-teach-adv.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>uploadFile</find>
+      <find>fileMd5</find>
+      <find>alert(</find>
+      <find>uploader</find>
+      <find>上传文件失败，请刷新页面重试</find>
+      <find>loginFormVisible</find>
+      <find>login</find>
+      <find>user.</find>
+      <find>getActiveUser</find>
+      <find>checkActiveUser</find>
+      <find>logout</find>
+      <find>getUserSession</find>
+      <find>user</find>
+      <find>getUserInfoFromJwt</find>
+      <find>欢迎</find>
+      <find>setUserSession</find>
+      <find>learnstatus</find>
+      <find>queryCompanyStat</find>
+      <find>showlogin</find>
+      <find>delUserSession</find>
+      <find>createOrder</find>
+      <find>getLearnstatus</find>
+      <find>popup-box</find>
+      <find>headVm</find>
+      <find>buy</find>
+      <find>Message</find>
+      <find>#include</find>
+      <find>header</find>
+      <find>登录</find>
+      <find>_blank</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal</dir>
+      <dir>D:\WebStormProject\xcEduUI\xc-ui-pc-static-portal</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/index_banner.html" />
+        <option value="$PROJECT_DIR$/test.json" />
+        <option value="$PROJECT_DIR$/ckplayer.html" />
+        <option value="$PROJECT_DIR$/plugins/ckplayer/ckplayer.js" />
+        <option value="$PROJECT_DIR$/upload.html" />
+        <option value="$PROJECT_DIR$/uploadtest2.html" />
+        <option value="$PROJECT_DIR$/uploadmulti.html" />
+        <option value="$PROJECT_DIR$/uploadtest.html" />
+        <option value="$PROJECT_DIR$/js/login.js" />
+        <option value="$PROJECT_DIR$/js/util.js" />
+        <option value="$PROJECT_DIR$/js/order.js" />
+        <option value="$PROJECT_DIR$/include/course_detail_dynamic.html" />
+        <option value="$PROJECT_DIR$/course/detail/4028e58161bd22e60161bd23672a0001.html" />
+        <option value="$PROJECT_DIR$/course/detail/402885816243d2dd016243f24c030002.html" />
+        <option value="$PROJECT_DIR$/js/public.js" />
+        <option value="$PROJECT_DIR$/vuetest/calculate.html" />
+        <option value="$PROJECT_DIR$/video.html" />
+        <option value="$PROJECT_DIR$/include/header.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="25" />
+    <option name="y" value="255" />
+    <option name="width" value="1555" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xc-ui-pc-static-portal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-ui-pc-static-portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xc-ui-pc-portal" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebStormProject\xcEduUI\xc-ui-pc-static-portal" />
+      <recent name="D:\WebStormProject\xcEduUI\xc-ui-pc-static-portal\course\preview" />
+      <recent name="D:\WebStormProject\xcEduUI\xc-ui-pc-static-portal\course\detail" />
+      <recent name="D:\WebStormProject\xcEduUI\xc-ui-pc-static-portal\vuetest" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebStormProject\xcEduUI\xc-ui-pc-static-portal\js\vue" />
+      <recent name="D:\WebStormProject\xcEduUI\xc-ui-pc-static-portal\vuetest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+      <created>1522380484107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522380484107</updated>
+      <workItem from="1522380485408" duration="3321000" />
+      <workItem from="1522508971246" duration="774000" />
+      <workItem from="1523427826704" duration="1327000" />
+      <workItem from="1524130929472" duration="1877000" />
+      <workItem from="1524879081123" duration="42000" />
+      <workItem from="1525783769466" duration="7861000" />
+      <workItem from="1525855065000" duration="1553000" />
+      <workItem from="1525875545751" duration="590000" />
+      <workItem from="1525919502156" duration="32220000" />
+      <workItem from="1526894397864" duration="9476000" />
+      <workItem from="1526977959394" duration="13563000" />
+      <workItem from="1527237696038" duration="16456000" />
+      <workItem from="1527865495024" duration="667000" />
+      <workItem from="1527923954209" duration="1626000" />
+      <workItem from="1528153794416" duration="4484000" />
+      <workItem from="1528173396953" duration="621000" />
+      <workItem from="1528190447746" duration="8000" />
+      <workItem from="1528249696513" duration="770000" />
+      <workItem from="1566527868074" duration="1371000" />
+      <workItem from="1567646819028" duration="647000" />
+      <workItem from="1567669174286" duration="5796000" />
+      <workItem from="1567675792948" duration="598000" />
+      <workItem from="1568544019981" duration="1138000" />
+      <workItem from="1568597330035" duration="1209000" />
+      <workItem from="1568627843809" duration="329000" />
+      <workItem from="1568631601921" duration="838000" />
+      <workItem from="1568878465504" duration="598000" />
+      <workItem from="1568884811061" duration="3384000" />
+      <workItem from="1569030306047" duration="1206000" />
+      <workItem from="1569499009272" duration="3131000" />
+      <workItem from="1569503683829" duration="230000" />
+      <workItem from="1569556690168" duration="2973000" />
+      <workItem from="1569670436117" duration="1222000" />
+      <workItem from="1569732543863" duration="598000" />
+      <workItem from="1569989217449" duration="1193000" />
+      <workItem from="1569998268225" duration="584000" />
+      <workItem from="1569999110877" duration="22000" />
+      <workItem from="1570009424203" duration="289000" />
+      <workItem from="1570087724554" duration="693000" />
+      <workItem from="1570096376610" duration="2842000" />
+      <workItem from="1570174625493" duration="2646000" />
+      <workItem from="1570673016786" duration="2341000" />
+      <workItem from="1570708802913" duration="667000" />
+      <workItem from="1570790874239" duration="1173000" />
+      <workItem from="1572602937797" duration="2043000" />
+      <workItem from="1573786065311" duration="2597000" />
+      <workItem from="1574222395096" duration="1197000" />
+      <workItem from="1574300016222" duration="580000" />
+      <workItem from="1574322116736" duration="590000" />
+      <workItem from="1574860444737" duration="766000" />
+      <workItem from="1574902943307" duration="2983000" />
+      <workItem from="1575272808857" duration="566000" />
+      <workItem from="1575427155845" duration="3850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="149896000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21466315" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.015652174" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/teacher/teacher_info_template02.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat/company/company_stat_template.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat/course/course_stat_297e7c7c62b888f00162b8a7dec20000.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/category.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/jquery/dist/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vuetest/vue.min.js" />
+    <entry file="file://$PROJECT_DIR$/vuetest/calculate.html" />
+    <entry file="file://$PROJECT_DIR$/include/index_banner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/widget-banner1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/widget-banner3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ckplayer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/page-payIco.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/videojs/video.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="7396" column="14" lean-forward="true" selection-start-line="7396" selection-start-column="14" selection-end-line="7396" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/teacher_info_template01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/course_detail_dynamic.html" />
+    <entry file="file://$PROJECT_DIR$/course/preview/course_detail_dynamic.html" />
+    <entry file="file://$PROJECT_DIR$/css/el/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#158871#159010#2" expanded="true" />
+            <element signature="e#162399#162538#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/el/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret column="46449" selection-start-column="46449" selection-end-column="46449" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/402885816243d2dd016243f24c030002.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14432">
+          <caret line="656" column="7" selection-start-line="656" selection-start-column="7" selection-end-line="656" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/course_main_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12606">
+          <caret line="629" column="28" selection-start-line="629" selection-start-column="20" selection-end-line="629" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/preview/preview_4028e581617f945f01617f9dabc40000.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14542">
+          <caret line="661" column="11" selection-start-line="661" selection-start-column="11" selection-end-line="661" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/category.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company/company_info_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/4028e58161bd22e60161bd23672a0001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14564">
+          <caret line="662" column="4" selection-start-line="662" selection-start-column="4" selection-end-line="662" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <marker date="1574907768834" expanded="true" signature="4171:4280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/asset-banner.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/asset-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/asset-favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/asset-video.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/asset-temp1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/asset-star.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/studyuser.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/widget-4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/widget-demo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/widget-demo2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/widget-demo3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/widget-vid.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/widget-timg.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/widget-teach-adv.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indextest.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/297e7c7c62b8aa9d0162b8ab56ba0001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/297e7c7c62b8aa9d0162b8ab13910000.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/297e7c7c62b888f00162b8a7dec20000.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/297e7c7c62b888f00162b8a965510001.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/4028e58161bcf7f40161bcf8b77c0000.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2178" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/preview/preview_402885816243d2dd016243f24c030002.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="256" column="17" lean-forward="true" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+nuxt运行错误常见问题：
+1 关闭防火墙
+2 关闭占用端口：
+	netstat -ano | findstr 1000   
+	taskkill /pid ** /F
